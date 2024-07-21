@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mariam Abdul Rehman\\Documents\\Work\\to-do-list\\ToDoListBack\\ToDoListBack\\ToDoListBack.csproj",
+      "projectUniqueName": "C:\\Users\\Mariam Abdul Rehman\\Documents\\Work\\to-do-list\\ToDoListBack\\ToDoListBack.csproj",
       "projectName": "ToDoListBack",
-      "projectPath": "C:\\Users\\Mariam Abdul Rehman\\Documents\\Work\\to-do-list\\ToDoListBack\\ToDoListBack\\ToDoListBack.csproj",
+      "projectPath": "C:\\Users\\Mariam Abdul Rehman\\Documents\\Work\\to-do-list\\ToDoListBack\\ToDoListBack.csproj",
       "packagesPath": "C:\\Users\\Mariam Abdul Rehman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mariam Abdul Rehman\\Documents\\Work\\to-do-list\\ToDoListBack\\ToDoListBack\\obj\\",
+      "outputPath": "C:\\Users\\Mariam Abdul Rehman\\Documents\\Work\\to-do-list\\ToDoListBack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mariam Abdul Rehman\\AppData\\Roaming\\NuGet\\NuGet.Config",
